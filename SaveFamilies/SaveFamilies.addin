@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>SaveFamilies</Name>
+		<Assembly>.\SaveFamilies.dll</Assembly>
+		<FullClassName>SaveFamilies.Save</FullClassName>
+		<ClientId>9A6C1341-F704-4EF1-8540-BD64A7C11820</ClientId>
+		<VendorId>hello@vestack.com</VendorId>
+		<VendorDescription>Vestack</VendorDescription>
+	</AddIn>
+</RevitAddIns>
